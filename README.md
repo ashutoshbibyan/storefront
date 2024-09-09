@@ -1,89 +1,27 @@
 # Storefront
 
-## Overview
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
 
-**Storefront** is a comprehensive Point of Sale (POS) application designed to manage sales transactions, inventory, and store operations. It provides functionalities for user authentication, product management, payment processing, receipt generation, and reporting.
+## Development server
 
-## Features
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-- **User Authentication & Role Management**: Secure login and role-based access control for different user types (Admin, Cashier).
-- **Product Management**: Add, edit, and remove products from the inventory.
-- **Inventory Management**: Track stock levels, manage inventory, and receive low stock alerts.
-- **Payment Processing**: Handle various payment methods, including cash, credit/debit cards, and mobile payments.
-- **Receipt Generation**: Generate and print receipts for transactions, including digital (PDF) and physical prints.
-- **Sales Reports**: View and analyze sales data, including revenue, number of sales, and top-selling products.
-- **Discounts and Promotions**: Apply discounts and promotions to sales and generate updated receipts.
+## Code scaffolding
 
-## Installation
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-### Prerequisites
+## Build
 
-- Node.js (v14 or later)
-- npm (Node Package Manager)
-- Angular CLI (v12 or later)
-- A database system (e.g., MySQL, MongoDB)
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-### Setup
+## Running unit tests
 
-1. **Clone the Repository**
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-   ````bash
-   git clone https://github.com/yourusername/storefront.git
-   ```# Storefront
-   ````
+## Running end-to-end tests
 
-## Overview
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-**Storefront** is a comprehensive Point of Sale (POS) application designed to manage sales transactions, inventory, and store operations. It provides functionalities for user authentication, product management, payment processing, receipt generation, and reporting.
+## Further help
 
-## Features
-
-- **User Authentication & Role Management**: Secure login and role-based access control for different user types (Admin, Cashier).
-- **Product Management**: Add, edit, and remove products from the inventory.
-- **Inventory Management**: Track stock levels, manage inventory, and receive low stock alerts.
-- **Payment Processing**: Handle various payment methods, including cash, credit/debit cards, and mobile payments.
-- **Receipt Generation**: Generate and print receipts for transactions, including digital (PDF) and physical prints.
-- **Sales Reports**: View and analyze sales data, including revenue, number of sales, and top-selling products.
-- **Discounts and Promotions**: Apply discounts and promotions to sales and generate updated receipts.
-
-## Installation
-
-### Prerequisites
-
-- Node.js (v14 or later)
-- npm (Node Package Manager)
-- Angular CLI (v12 or later)
-- A database system (e.g., MySQL, MongoDB)
-
-### Setup
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/storefront.git
-   ```
-
-# Storefront
-
-## Overview
-
-**Storefront** is a comprehensive Point of Sale (POS) application designed to manage sales transactions, inventory, and store operations. It provides functionalities for user authentication, product management, payment processing, receipt generation, and reporting.
-
-## Features
-
-- **User Authentication & Role Management**: Secure login and role-based access control for different user types (Admin, Cashier).
-- **Product Management**: Add, edit, and remove products from the inventory.
-- **Inventory Management**: Track stock levels, manage inventory, and receive low stock alerts.
-- **Payment Processing**: Handle various payment methods, including cash, credit/debit cards, and mobile payments.
-- **Receipt Generation**: Generate and print receipts for transactions, including digital (PDF) and physical prints.
-- **Sales Reports**: View and analyze sales data, including revenue, number of sales, and top-selling products.
-- **Discounts and Promotions**: Apply discounts and promotions to sales and generate updated receipts.
-
-## Installation
-
-### Prerequisites
-
-- Node.js (v14 or later)
-- npm (Node Package Manager)
-- Angular CLI (v12 or later)
-- A database system (e.g., MySQL, MongoDB)
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.

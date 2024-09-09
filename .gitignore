@@ -1,0 +1,25 @@
+# Node.js dependencies
+/node_modules
+
+# Angular build output
+/dist
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Other generated files
+*.log
+*.swp
